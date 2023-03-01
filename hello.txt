@@ -1,0 +1,12 @@
+akjgjkadgn
+
+
+
+
+
+3types:
+
+
+untracked
+tracked/unstaged
+staged
